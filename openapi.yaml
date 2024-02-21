@@ -25,7 +25,6 @@ paths:
           description: ワイルドカードとして使う任意の1文字を指定します。
           schema:
             type: string
-            default: "?"
         - name: target
           in: query
           description: |
